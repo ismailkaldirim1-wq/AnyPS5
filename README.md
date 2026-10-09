@@ -36,4 +36,4 @@ This project is intended for interoperability, research, preservation, and compa
 
 ## License
 
-This project is licensed under the GNU General Public License version 2 only.
+This project is licensed under the GNU General Public License version 2 only..
